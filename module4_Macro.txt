@@ -1,0 +1,11 @@
+Example:
+
+Enter macro name: INCREMENT
+Enter number of instructions: 3
+
+Enter macro instructions:
+LOAD &X
+ADD &X
+STORE &X
+
+Enter argument: A
